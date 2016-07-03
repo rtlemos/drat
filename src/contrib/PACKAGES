@@ -12,3 +12,9 @@ License: GPL-2
 MD5sum: 543117d7dfb6bd1e76676a82c43fc743
 NeedsCompilation: no
 
+Package: rcsurplus1d
+Version: 0.0.0.9003
+Suggests: testthat, knitr, rmarkdown
+MD5sum: 4c861322ed1a376a2f2874407dc5ee4e
+NeedsCompilation: no
+
