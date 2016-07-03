@@ -5,3 +5,10 @@ Suggests: testthat, knitr, rmarkdown, snowfall
 MD5sum: e56cae3580c81b6cd9c0dc0b20733965
 NeedsCompilation: yes
 
+Package: rcsurplus
+Version: 0.1
+Depends: R (>= 3.1.1), shiny, shinyBS, ggplot2, grid, R2OpenBUGS, coda
+License: GPL-2
+MD5sum: 543117d7dfb6bd1e76676a82c43fc743
+NeedsCompilation: no
+
