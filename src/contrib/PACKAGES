@@ -1,0 +1,7 @@
+Package: rcrandom
+Version: 0.0.0.9000
+Imports: GenSA, Matrix
+Suggests: testthat, knitr, rmarkdown, snowfall
+MD5sum: e56cae3580c81b6cd9c0dc0b20733965
+NeedsCompilation: yes
+

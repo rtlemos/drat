@@ -1,1 +1,3 @@
 http://eddelbuettel.github.io/drat/DratForPackageAuthors.html
+To add a package, do
+drat::insertPackage("~/workspace_github/rcrandom_0.0.0.9000.tar.gz", "~/workspace_github/drat/")
