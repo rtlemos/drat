@@ -18,3 +18,10 @@ Suggests: testthat, knitr, rmarkdown
 MD5sum: 4c861322ed1a376a2f2874407dc5ee4e
 NeedsCompilation: no
 
+Package: rcvirtual
+Version: 0.0.0.9000
+Imports: rcrandom, ncdf4, grid, ggplot2
+Suggests: testthat, knitr, rmarkdown
+MD5sum: d3247b620842d4fecf67dbea16437983
+NeedsCompilation: no
+
