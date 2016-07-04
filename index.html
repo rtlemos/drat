@@ -1,2 +1,7 @@
 To function properly, R package drat requires a branch called gh-pages. Once created, you gain access to
 http://rtlemos.github.io/drat/
+
+In the folder drat/src/contrib, there's a list of available packages in this repo (PACKAGES). 
+This list is updated by the author, who builds a new source package (e.g., rcvirtual_0.0.0.9000.tar.gz) and then uses drat:
+
+drat::insertPackage("~/workspace_github/rcvirtual_0.0.0.9000.tar.gz", "~/workspace_github/drat/")
