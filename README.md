@@ -8,3 +8,4 @@ Once this is done, you can install any package (and its dependencies) seamlessly
 ```r
 install.packages('rcvirtual')
 ```
+To learn more about `drat`, read the [vignette](https://cran.rstudio.com/web/packages/drat/vignettes/DratForPackageUsers.html) and [FAQ](https://cran.rstudio.com/web/packages/drat/vignettes/DratFAQ.html).
