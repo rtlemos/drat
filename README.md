@@ -3,7 +3,7 @@ This is a dummy (drat) package that lets you have access to all the packages in 
 ```r
 # installing the real drat package from CRAN
 install.packages('drat')
-# adding my repo to your list of repos (not permanently)
+# adding my repo to your list of repos (not permanently, just for your current R session)
 drat::addRepo(account = 'rtlemos', alturl = 'https://rtlemos.github.io/drat/')
 ```
 Once this is done, you can install any package (and its dependencies) seamlessly, e.g.
