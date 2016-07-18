@@ -5,7 +5,7 @@ If you want to have access to all the packages in this repository (rtlemos), her
 install.packages('drat')
 # add my repo to your list of repos (for your current R session only), thanks to my drat package
 drat::addRepo(account = 'rtlemos', alturl = 'https://rtlemos.github.io/drat/')
-# installing a package (and its dependencies) from the repo
+# installing a package (and its dependencies) from my repo, e.g. rcvirtual
 install.packages('rcvirtual')
 ```
 My local version of `drat` is just a dummy package that lets you do the above seamlessly. 
