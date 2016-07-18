@@ -3,7 +3,7 @@ If you want to have access to all the packages in this repository (rtlemos), her
 ```r
 # install the real drat package from CRAN
 install.packages('drat')
-# add my repo to your list of repos (not permanently, just for your current R session), thanks to my drat package
+# add my repo to your list of repos (for your current R session only), thanks to my drat package
 drat::addRepo(account = 'rtlemos', alturl = 'https://rtlemos.github.io/drat/')
 # installing a package (and its dependencies) from the repo
 install.packages('rcvirtual')
